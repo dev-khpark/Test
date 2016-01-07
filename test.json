@@ -1,0 +1,4 @@
+[
+ {"action": {"type": "block"},"trigger": {"url-filter": "nowcall.co.kr"}},
+ {"action": {"type": "block"},"trigger": {"url-filter": "linkprice.com”}}
+]
