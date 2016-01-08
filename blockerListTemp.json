@@ -1,4 +1,4 @@
  [
-  {"action": {"type": "block"},"trigger": {"url-filter": "daum.net"}},
-  {"action": {"type": "block"},"trigger": {"url-filter": "interpark.co.kr"}}
+  {"action": {"type": "block"},"trigger": {"url-filter": "dogdrip.com"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "danawa.com"}}
   ]
