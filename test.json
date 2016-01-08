@@ -1,4 +1,4 @@
  [
-   {"action": {"type": "block"},"trigger": {"url-filter": “clien.net”}},
- {"action": {"type": "block"},"trigger": {"url-filter": “m.clien.net”}}
+   {"action": {"type": "block"},"trigger": {"url-filter": “daum.net”}},
+ {"action": {"type": "block"},"trigger": {"url-filter": “invent.co.kr”}}
   ]
