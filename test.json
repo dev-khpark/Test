@@ -1,4 +1,4 @@
- [
+[
  {"action": {"type": "block"},"trigger": {"url-filter": “daum.net”}},
  {"action": {"type": "block"},"trigger": {"url-filter": “inven.co.kr”}}
-  ]
+ ]
