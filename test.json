@@ -1,4 +1,4 @@
  [
   {"action": {"type": "block"},"trigger": {"url-filter": "nowcall.co.kr"}},
-  {"action": {"type": "block"},"trigger": {"url-filter": “m.clien.net”}}
+  {"action": {"type": "block"},"trigger": {"url-filter": “daum.net”}}
   ]
