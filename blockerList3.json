@@ -1,0 +1,4 @@
+[
+ {"action": {"type": "block"},"trigger": {"url-filter": “drum.net”}},
+ {"action": {"type": "block"},"trigger": {"url-filter": “inven.co.kr”}}
+ ]
