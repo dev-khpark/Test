@@ -1,4 +1,5 @@
-[
- {"action": {"type": "block"},"trigger": {"url-filter": “daum.net”}},
- {"action": {"type": "block"},"trigger": {"url-filter": “inven.co.kr”}}
- ]
+ [
+  {"action": {"update": "2016-01-11"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "dogdrip.com"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "danawa.com"}}
+  ]
