@@ -1,5 +1,5 @@
  [
   {"action": {"update": "2016-01-12"}},
-  {"action": {"type": "block"},"trigger": {"url-filter": "dogdrip.com"}},
-  {"action": {"type": "block"},"trigger": {"url-filter": "danawa.com"}}
+  {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "ad.com"}}
   ]
