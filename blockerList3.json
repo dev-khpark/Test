@@ -1,5 +1,5 @@
  [
-  {"action": {"update": "2016-01-15"}},
+  {"action": {"update": "2016-01-18"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["bhu.co.kr"]}},
