@@ -1,5 +1,5 @@
  [
-  {"action": {"update": "2016-01-24"}},
+  {"action": {"update": "2016-01-24(네이버/다음 광고허용)"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com"}},
