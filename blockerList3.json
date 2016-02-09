@@ -8,6 +8,9 @@
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["beobe.us"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.daum.net"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.g9.co.kr"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["g9.co.kr"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["11st.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.shopping.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}}
   ]
