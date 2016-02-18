@@ -1,9 +1,12 @@
  [
-  {"action": {"update": "02-14(네이버/다음만 광고허용)"}},
+  {"action": {"update": "02-18(네이버/다음만 광고허용)"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "app.google-play.kr"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "cfile9.uf.tistory.com"}},
+  {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
+  {"action": {"type": "css-display-none","selector": "div.module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["bhu.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["beobe.us"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.naver.com"]}},
