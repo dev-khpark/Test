@@ -1,5 +1,5 @@
  [
-  {"action": {"update": "02-21(네이버/다음만 광고허용)"}},
+  {"action": {"update": "02-22(네이버/다음만 광고허용)"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com"}},
@@ -11,7 +11,9 @@
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["bhu.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["beobe.us"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["google.com"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["www.google.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["google.co.kr"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["www.google.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["cc.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["naver.com"]}},
