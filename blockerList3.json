@@ -10,6 +10,8 @@
   {"action": {"type": "css-display-none","selector": "div.module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["bhu.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["beobe.us"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["google.com"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["google.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["cc.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["naver.com"]}},
