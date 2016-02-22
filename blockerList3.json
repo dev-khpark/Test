@@ -4,8 +4,6 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "app.google-play.kr"}},
-  {"action": {"type": "block"},"trigger": {"url-filter": "cfile9.uf.tistory.com"}},
-  {"action": {"type": "block"},"trigger": {"url-filter": "cfile.*.uf.tistory.com"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "css-display-none","selector": "div.module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["bhu.co.kr"]}},
