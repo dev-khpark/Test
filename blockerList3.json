@@ -21,6 +21,7 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com/-3jVAebc_RTQ/Vs7L274VxqI/AAAAAAAAETg/R1dwynWfV14/s1600/13.JPG"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "1.bp.blogspot.com/-gBYeu0HRTp8/Vs7u05rHywI/AAAAAAAAEUo/s6_r7bHR3PY/s1600/14.jpg"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "1.bp.blogspot.com/-xSJ2VZpyIaI/Vs7u00R8X9I/AAAAAAAAEUw/gI5Tqv6oJl4/s1600/15.jpg"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com/-Mxt6EcJ9rHc/Vp5oHGCeNpI/AAAAAAAABRQ/GNeSqG2f8u8/s1600/%25EC%2582%25AC%25EB%259E%2591%25EA%25B3%25BC%25EC%25A0%2584%25EC%259F%2581_%25EC%2587%25BC%25EC%2597%2585.gif"}},
   {"action": {"type": "css-display-none","selector": "#module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "css-display-none","selector": "div.module module_plugin"},"trigger": {"url-filter": "macguyver.kr"}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["bhu.co.kr"]}},
