@@ -1,5 +1,5 @@
  [
-  {"action": {"update": "02-29(네이버/다음만 광고허용)"}},
+  {"action": {"update": "05-09(네이버/다음만 광고허용)"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com"}},
@@ -43,6 +43,7 @@
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.g9.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["g9.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["11st.co.kr"]}},
+  {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["click.linkprice.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["news.google.co.kr"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.shopping.naver.com"]}},
   {"action": {"type": "ignore-previous-rules"},"trigger": {"url-filter": ".*","if-domain": ["m.11st.co.kr"]}}
