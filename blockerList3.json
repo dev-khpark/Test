@@ -3,6 +3,7 @@
   {"action": {"type": "block"},"trigger": {"url-filter": "ads.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "cas.criteo.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "4.bp.blogspot.com"}},
+  {"action": {"type": "block"},"trigger": {"url-filter": "3.bp.blogspot.com"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "app.google-play.kr"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "otorrent.us/img/bn/208-120.jpg"}},
   {"action": {"type": "block"},"trigger": {"url-filter": "otorrent.us/img/bn/yamato3.gif"}},
